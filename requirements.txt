@@ -9,6 +9,6 @@ requests==2.31.0
 tenacity==8.2.2
 tiktoken==0.4.0
 virtualenv==20.23.0
-Werkzeug==2.3.6
+Werkzeug==3.0.1
 Markdown==3.4.4
 Pillow==10.1.0
